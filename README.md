@@ -1,5 +1,5 @@
 <div>
-  <img  height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/>
+  <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/>
   <img  height="180em"  width="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qedrohenrique&layout=compact&theme=radical&langs_count=7"/>
 </div>
   <div style="display: inline_block"><br>
