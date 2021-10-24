@@ -1,7 +1,7 @@
 <div>
   <a href="https://youtu.be/MPOGX0t1O9k">
     <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/></a>
-    <img  height="180em"  width="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?    username=qedrohenrique&layout=compact&theme=radical&langs_count=7"/>
+      <img  height="180em"  width="350em" align="justified"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qedrohenrique&layout=compact&langs_count=7&theme=radical"/>
   
 </div>
   <div style="display: inline_block" align="center"><br>
