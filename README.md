@@ -1,7 +1,7 @@
+<a href="https://youtu.be/MPOGX0t1O9k">
 <div>
-  <a href="https://youtu.be/MPOGX0t1O9k">
     <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/></a>
-      <img  height="180em"  width="350em" align="justified"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qedrohenrique&layout=compact&langs_count=7&theme=radical"/>
+      <img  height="180em"  width="350em" align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qedrohenrique&layout=compact&langs_count=7&theme=radical"/>
   
 </div>
   <div style="display: inline_block" align="center"><br>
@@ -11,6 +11,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+</a>
   
   ##
  
