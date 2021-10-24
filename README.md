@@ -1,9 +1,8 @@
 <div>
   <a href="https://youtu.be/MPOGX0t1O9k">
     <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/></a>
-  <a href="https://youtu.be/MPOGX0t1O9k">
     <img  height="180em"  width="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?    username=qedrohenrique&layout=compact&theme=radical&langs_count=7"/>
-  </a>
+  
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
