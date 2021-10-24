@@ -1,6 +1,7 @@
 <div>
   <a href="https://youtu.be/MPOGX0t1O9k">
-    <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/>
+    <img  height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=qedrohenrique&show_icons=true&theme=radical"/></a>
+  <a href="https://youtu.be/MPOGX0t1O9k">
     <img  height="180em"  width="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?    username=qedrohenrique&layout=compact&theme=radical&langs_count=7"/>
   </a>
 </div>
