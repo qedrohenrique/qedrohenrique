@@ -1,4 +1,4 @@
-If you are looking for projects to see my knownledge, I'd would recommend:
+I'd would recommend:
 
 - [users-crud](https://github.com/qedrohenrique/users-crud) (I swear it has more stuff than only a crud)
 - [go-quotes-api](https://github.com/qedrohenrique/go-quotes-api)
